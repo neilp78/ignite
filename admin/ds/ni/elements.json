@@ -1,0 +1,56 @@
+{
+  "ni": {
+    "elements": [
+      {
+        "name": "h1",
+        "markup": '<h1 class="">Heading 1</h1>',
+        "description": ""
+      },
+      {
+        "name": "h2",
+        "markup": '<h2 class="">Heading 1</h2>',
+        "description": ""
+      },
+      {
+        "name": "h3",
+        "markup": '<h3 class="">Heading 3</h3>',
+        "description": ""
+      },
+      {
+        "name": "h4",
+        "markup": '<h4 class="">Heading 4</h4>',
+        "description": ""
+      },
+      {
+        "name": "h5",
+        "markup": '<h5 class="">Heading 5</h5>',
+        "description": ""
+      },
+      {
+        "name": "paragraph",
+        "markup": '<p class="">Heading 5</p>',
+        "description": ""
+      },
+      {
+        "name": "intro-paragraph",
+        "markup": '<p class="intro">Heading 5</p>',
+        "description": ""
+      },
+      {
+        "name": "link",
+        "markup": '<a href="#">Link</a>',
+        "description": ""
+      },
+      {
+        "name": "button-primary",
+        "markup": '<a href="#" class="">Button</a>',
+        "description": ""
+      },
+      {
+        "name": "button-secondary",
+        "markup": '<a href="#" class="">Secondary button</a>',
+        "description": ""
+      }
+    ]
+  }
+}

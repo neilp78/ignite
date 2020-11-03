@@ -1,0 +1,103 @@
+/*body {
+  font-family: Arial;
+}
+.govuk-header__container {
+  border: none;
+  margin-bottom:0px;
+}
+.header {
+  background: #fff;
+  border-bottom: 1px solid #979797;
+  height: 65px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.header-wrapper {
+  width:100%;
+  max-width: 980px;
+  margin: 0 auto;
+}
+.govuk-button {
+  background: #008096;
+  border: none;
+  border-radius: 2px;
+  padding: 9px 46px;
+}
+.govuk-button:hover {
+  background: #005C6B;
+}
+.govuk-footer {
+  color: #fff;
+  background: #0C4651;
+  min-height: 200px;
+  padding: 0 3%;
+}
+#canvas {
+  margin-bottom: 100px;
+}
+.govuk-radios.govuk-radios--inline {
+  margin-top: 18px;
+}
+.govuk-form-group {
+    margin-bottom: 38px;
+}
+.govuk-back-link {
+  margin-bottom: 36px;
+}
+.inset-image {
+  background: url(images/digital-citizen-services.png) no-repeat;
+  height: 240px;
+  width: 236px;
+  float: right;
+  margin: -164px 171px;
+}
+
+#logo {
+  width: 20%;
+  float: left;
+}
+#masthead {
+  font-family: Arial;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  padding-top: 18px;
+  font-size: 22px;
+  font-weight: 700;
+}
+.footer-menu {
+  width: 100%;
+  max-width: 960px;
+  margin: auto;
+}
+.footer-menu ul {
+  padding:0px;
+  margin-top: 50px;
+}
+.footer-menu li {
+  list-style: none;
+}
+.govuk-breadcrumbs__list-item {
+  margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .inset-image {
+    display: none;
+  }
+  #masthead {
+    padding-top: 14px;
+    font-size: 17px;
+  }
+}
+.govuk-panel--confirmation {
+    color: #fff;
+    background: #1E7E93;
+    margin-bottom: 50px;
+}
+@media only screen and (max-width: 600px) {
+  .govuk-panel--confirmation {
+    margin-bottom: 10px;
+}
+}
+*/
